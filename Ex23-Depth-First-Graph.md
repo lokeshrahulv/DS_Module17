@@ -18,8 +18,8 @@ To compose the code for the function createNode to traverse the graph below in t
 ```
 /*
 Program to traverse the graph below in the depth first fashion
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 */
 struct node* createNode(int v) {
   struct node* newNode = malloc(sizeof(struct node));
