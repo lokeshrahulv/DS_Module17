@@ -42,8 +42,8 @@ To compose the code to determine whether the topological ordering for the follow
 ```
 /*
 Program to determine whether the topological ordering for the following graph is possible or not
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 */
 int main()
 {
